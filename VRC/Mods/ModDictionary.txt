@@ -1,0 +1,3 @@
+//Azalea Yoshisaur Munchakoopas
+AYMVer=1
+AYMFile="Azalea_Yoshisaur_Munchakoopas.dll"
